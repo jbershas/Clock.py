@@ -1,6 +1,11 @@
 Clock.py
 ========
 
+Im windows user that putty or vnc
+im playing with an Raspberry Pi B+
+learning pyhton 2.7
+all somewhat new to me
+
 Modded clock to understanding codeing
 using python
 
